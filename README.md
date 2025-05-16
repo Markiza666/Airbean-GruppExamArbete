@@ -14,8 +14,7 @@ Examination-project "Airbean" programmed in React and Vanilla Javascript.
 
 1. Clone repo:
    ```sh
-   git clone https://github.com/emilialindberg/airbean-app-react.git
-   cd airbean-app-react
+   git clone https://github.com/Markiza666/Airbean-GruppExamArbete.git
    ```
 2. Install package:
    ```sh
