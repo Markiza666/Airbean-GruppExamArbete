@@ -1,6 +1,6 @@
-# Bruna Räven Airbean
+# Airbean
 
-Examination-project "Airbean" programmed in React and Vanilla Javascript.
+Group examination-project "Airbean" programmed in React and Vanilla Javascript.
 
 ## Script
 
@@ -15,6 +15,7 @@ Examination-project "Airbean" programmed in React and Vanilla Javascript.
 1. Clone repo:
    ```sh
    git clone https://github.com/Markiza666/Airbean-GruppExamArbete.git
+
    ```
 2. Install package:
    ```sh
